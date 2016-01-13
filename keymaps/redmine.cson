@@ -10,4 +10,4 @@
 'atom-workspace':
   'shift-alt-m': 'redmine:my-issues'
   'shift-alt-a': 'redmine:all-issues',
-  'shift-alt u': 'redmine:update-issue'
+  'shift-alt-u': 'redmine:update-issue'
